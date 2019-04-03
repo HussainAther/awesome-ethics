@@ -79,7 +79,7 @@ A curated list of awesome ethics
 
 * Chapter 7 of Driver (see above). 2006.
 
-## Other issues in normative ethics
+### Other issues in normative ethics
 
 * Christopher Heathwood [Welfare](http://spot.colorado.edu/~heathwoo/welfare.pdf). 2010.
 
@@ -94,6 +94,22 @@ A curated list of awesome ethics
 * Robert Shaver Stanford Encyclopedia of Philosophy entry on [Egoism](https://plato.stanford.edu/entries/egoism/). 2014.
 
 * Joshua May Internet Encyclopedia of Philosophy entry on [Psychological Egoism](http://www.iep.utm.edu/psychego/). 2011.
+
+### Metaethics
+
+* Andrew Fisher [Metaethics: An Introduction](https://books.google.com/books/about/Metaethics.html?id=VbiNZwEACAAJ). 2011.
+
+* Alexander Miller [Contemporary Metaethics: An Introduction](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0745646581.html). 2013.
+
+* Mark van Roojen [Metaethics: A Contemporary Introduction](https://www.routledge.com/Metaethics-A-Contemporary-Introduction/van-Roojen/p/book/9780415894425). 2015.
+
+* Geoff Sayre-McCord's Stanford Encyclopedia of Philosophy entry on [Metaethics](https://plato.stanford.edu/entries/metaethics/). 2012.
+
+* [The Routledge Handbook of Metaethics](https://www.routledge.com/The-Routledge-Handbook-of-Metaethics/McPherson-Plunkett/p/book/9781138812208). 2017.
+
+> This is probably a more difficult read than the others, but it is incredibly comprehensive and helpful. There are many things in this handbook that I've been reading about for a long time that I didn't feel confident about until reading this. Certainly worth the cost.
+
+* [The Oxford Handbook of Ethical Theory](https://global.oup.com/academic/product/the-oxford-handbook-of-ethical-theory-9780195147797?cc=us&lang=en&). 2005.
 
 ## Metaethics
 
