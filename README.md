@@ -23,6 +23,22 @@ A curated list of awesome ethics
 
 > In this entry, Ridge lays out another way of categorizing theories in normative ethics in an accessible manner.
 
+### Normative ethics issues
+
+* Christopher Heathwood [Welfare](http://spot.colorado.edu/~heathwoo/welfare.pdf). 2010.
+
+* Roger Crisp Stanford Encyclopedia of Philosophy entry on [Well-being](https://plato.stanford.edu/entries/well-being/). 2017.
+
+* Michael Zimmerman Stanford Encyclopedia of Philosophy entry on [Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/). 2014.
+
+* Dana Nelkin Stanford Encyclopedia of Philosophy entry on [Moral Luck](https://plato.stanford.edu/entries/moral-luck/). 2013.
+
+* Stephen Stich, John Doris, and Erica Roedder [Altruism](http://www.rci.rutgers.edu/~stich/Publications/Papers/Altruism.pdf). 2008.
+
+* Robert Shaver Stanford Encyclopedia of Philosophy entry on [Egoism](https://plato.stanford.edu/entries/egoism/). 2014.
+
+* Joshua May Internet Encyclopedia of Philosophy entry on [Psychological Egoism](http://www.iep.utm.edu/psychego/). 2011.
+
 ### Consequentialism
 
 * William Shaw [Contemporary Ethics: Taking Account of Utilitarianism](https://books.google.com/books?id=nb88LtgGnMAC). 1999.
@@ -79,22 +95,6 @@ A curated list of awesome ethics
 
 * Chapter 7 of Driver (see above). 2006.
 
-### Other issues in normative ethics
-
-* Christopher Heathwood [Welfare](http://spot.colorado.edu/~heathwoo/welfare.pdf). 2010.
-
-* Roger Crisp Stanford Encyclopedia of Philosophy entry on [Well-being](https://plato.stanford.edu/entries/well-being/). 2017.
-
-* Michael Zimmerman Stanford Encyclopedia of Philosophy entry on [Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/). 2014.
-
-* Dana Nelkin Stanford Encyclopedia of Philosophy entry on [Moral Luck](https://plato.stanford.edu/entries/moral-luck/). 2013.
-
-* Stephen Stich, John Doris, and Erica Roedder [Altruism](http://www.rci.rutgers.edu/~stich/Publications/Papers/Altruism.pdf). 2008.
-
-* Robert Shaver Stanford Encyclopedia of Philosophy entry on [Egoism](https://plato.stanford.edu/entries/egoism/). 2014.
-
-* Joshua May Internet Encyclopedia of Philosophy entry on [Psychological Egoism](http://www.iep.utm.edu/psychego/). 2011.
-
 ### Metaethics
 
 * Andrew Fisher [Metaethics: An Introduction](https://books.google.com/books/about/Metaethics.html?id=VbiNZwEACAAJ). 2011.
@@ -110,6 +110,16 @@ A curated list of awesome ethics
 > This is probably a more difficult read than the others, but it is incredibly comprehensive and helpful. There are many things in this handbook that I've been reading about for a long time that I didn't feel confident about until reading this. Certainly worth the cost.
 
 * [The Oxford Handbook of Ethical Theory](https://global.oup.com/academic/product/the-oxford-handbook-of-ethical-theory-9780195147797?cc=us&lang=en&). 2005.
+
+### Moral judgement
+
+* Michael Smith [The Moral Problem](https://link.springer.com/article/10.1023%2FA%3A1009976621075). 1998.
+
+> A must read for those who want to engage with issues in moral judgment, functioning both as a work popularly considered the most important in the topic as well as a great introduction.
+
+* Chapter 3 of Miller (see above). 2013.
+
+* Connie S. Rosati Stanford Encyclopedia of Philosophy entry on [Moral Motivation](https://plato.stanford.edu/entries/moral-motivation/). 2016.
 
 ## Metaethics
 
