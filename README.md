@@ -121,6 +121,20 @@ A curated list of awesome ethics
 
 * Connie S. Rosati Stanford Encyclopedia of Philosophy entry on [Moral Motivation](https://plato.stanford.edu/entries/moral-motivation/). 2016.
 
+### Moral responsibility
+
+* P. F. Strawson [Freedom & Resentment](http://people.brandeis.edu/~teuber/P._F._Strawson_Freedom_&_Resentment.pdf). 1962.
+
+* John Martin Fischer and Mark Ravizza [Perspectives on Moral Responsibility](https://books.google.com/books/about/Perspectives_on_Moral_Responsibility.html?id=0ncN3TuDQ7cC). 1993.
+
+* Timothy O'Connor and Christopher Franklin Stanford Encyclopedia of Philosophy entry on [Free Will](https://plato.stanford.edu/entries/freewill/). 2018.
+
+* Michael McKenna and D. Justin Coates Stanford Encyclopedia of Philosophy entry on [Compatibilism](https://plato.stanford.edu/entries/compatibilism/). 2015.
+
+* Kadri Vihvelin Stanford Encyclopedia of Philosophy entry on [Arguments for Incompatibilism](https://plato.stanford.edu/entries/incompatibilism-arguments/). 2017.
+
+* Andrew Eshelman Stanford Encyclopedia of Philosophy entry on [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/). 2014.
+
 ## Metaethics
 
 Metaethics is occasionally referred to as a "second-order" discipline to make a distinction between itself and areas that are less about questions regarding what morality itself is. Questions about the most plausible metaphysical report of moral facts or the link between moral judgment, motivation, and knowledge are questions can be described as such, and so are metaethical questions. There are several rough divisions that have been created to introduce metaethics adequately. Either of these distinctions should be sufficient for getting a distant sense of what metaethics is.
