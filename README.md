@@ -3,8 +3,6 @@ A curated list of awesome ethics
 
 Contributions and criticism are welcome. (See: https://github.com/HussainAther/awesome-ethics/blob/master/contributing.md)
 
-Ethics has been divided traditionally into three areas concerning how we ought to conduct ourselves.
-
 # [Table of contents](#Table-of-contents)
 
 * [What is ethics?](#What-is-ethics)
@@ -44,6 +42,8 @@ Questions of moral language, psychology, phenomonenology (see above), epistemolo
 Questions of theoretical content, what makes something right, wrong, good, bad, obligatory, or supererogatory typically fall under normative ethics.
 
 Questions of conduct related to specific issues in the real world to do with business, professional, social, environmental, bioethics, and personhood typically fall under applied ethics. These can be things like abortion, euthanasia, treatment of non-human animals, marketing, and charity.
+
+Ethics has been divided traditionally into three areas concerning how we ought to conduct ourselves.
 
 ## Meta-ethics (Metaethics)
 
