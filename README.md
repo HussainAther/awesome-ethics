@@ -3,7 +3,7 @@ A curated list of awesome ethics
 
 # [Table of contents](#Table-of-contents)
 
-* [What is ethics](#What-is-ethics?)
+* [What is ethics?](#What-is-ethics)
 
     * [Meta-ethics (Metaethics)](#Meta-ethics-Metaethics)
     
