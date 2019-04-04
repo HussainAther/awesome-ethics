@@ -1,7 +1,9 @@
 # [Awesome ethics](#Awesome-ethics)
 A curated list of awesome ethics
 
-Ethics has been divided traditionally into three areas concerning how we ought to conduct ourselves. 
+Contributions and criticism are welcome. (See: https://github.com/HussainAther/awesome-ethics/blob/master/contributing.md)
+
+Ethics has been divided traditionally into three areas concerning how we ought to conduct ourselves.
 
 # [Table of contents](#Table-of-contents)
 
