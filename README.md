@@ -91,7 +91,7 @@ Two small notes that might be made are:
 
 ## Applied ethics
 
-Finally, applied ethics is concerned with what is permissible in particular practices. In Peter Singer's Practical Ethics, Singer provides some examples of what sorts of things this field might address.
+Applied ethics is concerned with what is permissible in particular practices. In Peter Singer's Practical Ethics, Singer provides some examples of what sorts of things this field might address.
 
 > Practical ethics covers a wide area. We can find ethical ramifications in most of our choices, if we look hard enough. This book does not attempt to cover this whole area. The problems it deals with have been selected on two grounds: their relevance, and the extent to which philosophical reasoning can contribute to a discussion of them.
 
@@ -320,6 +320,12 @@ So it is important to stress then that virtue is the central concept for virtue 
 It should be emphasized again that this describes only some theories in this family, but they are good theories to focus on because much of the discussion around these theories would be representative of discussion around virtue ethics in general.
 
 > It is worth stressing that not all theories that could plausibly be understood as forms of virtue ethics would satisfy the above conditions; the current goal is not to defend all possible virtue ethics. Rather, we are examining what might be taken to be among the more radical possible forms of virtue ethics, particularly in treating the virtues as explanatorily prior both to rightness and to goodness tout court. Why focus on these more radical forms? First, several prominent virtue ethics can be understood as satisfying the above conditions, including those of Michael Slote, Linda Zagzebski, and, perhaps (if controversially), Aristotle’s paradigmatic virtue ethics. Beyond this, many of the arguments presented here could be taken on board by those defending more moderate forms of virtue ethics, such as Rosalind Hursthouse or Christine Swanton (against those who would attempt to argue for the explanatory primacy of the right or of the good, for example). Thus the range of interest for most of these arguments will extend beyond those focusing on the more radical approaches.
+
+### Ethics as maximizing happiness: Utilitarianism
+
+In the famous Trolley problem philosopher Philippa Foot introduced in the 1960s, you have the ability to pull a lever to divert a train from running over five tied-up people lying on the tracks. If you pull the lever, the trolley will be redirected onto a side track, and the five people on the main track will be saved. However, there is a single person lying on the side track.
+
+ According to classical utilitarianism, pulling the lever would be permissible and more moral. English philosophers Jeremy Bentham and John Stuart Mill introduced utilitarianism as the sole moral obligation to maximize happiness. As an alternative to divine, religious theories of ethics. Utilitarianism suffers from the idea of "utility monsters," individuals who would have much more happiness (and therefore utility) than average. This would cause actions to skew towards and exploit maximizing the monster's happiness in such a way that others would suffer.  Since philosopher Robert Nozick introduced the "utility monster" idea in 1974, it has been discussed in politics as driving the ideas of special interest groups and free speech - as though securing these interests would serve the interests of the few experiencing much more happiness than the general population.
 
 #### Practical intelligence
 
