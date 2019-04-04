@@ -225,7 +225,7 @@ Finally, applied ethics is concerned with what is permissible in particular prac
 
 > I regard an ethical issue as relevant if it is one that any thinking person must face. Some of the issues discussed in this book confront us daily: what are our personal responsibilities towards the poor? Are we justified in treating animals as nothing more than machines- producing flesh for us to eat? Should we be using paper that is not recycled? And why should we bother about acting in accordance with moral principles anyway? Other problems, like abortion and euthanasia, fortunately are not everyday decisions for most of us; but they are issues that can arise at some time in our lives. They are also issues of current concern about which any active participant in our society's decision-making process needs to reflect.
 
-....
+> ....
 
 > This book is about practical ethics, that is, the application of ethics or morality — I shall use the words interchangeably — to practical issues like the treatment of ethnic minorities, equality for women, the use of animals for food and research, the preservation of the natural environment, abortion, euthanasia, and the obligation of the wealthy to help the poor.
 
@@ -290,3 +290,9 @@ In Julia Driver's [Ethics: The Fundamentals](https://books.google.com/books/abou
 > Immanuel Kant's theory is perhaps the most well-known exemplar of the deontological approach...whether or not a contemplated course of action is morally permissible will depend on whether or not it conforms to what he terms the moral law, the categorical imperative.
 
 There's a tone here that seems noticeably different from consequentialist talk. Permissibility as conforming to moral law could still be consequentialist if that law is something like "maximize the good," but this description seems to indicate something else. To figure this out, we need an explanation of what "the categorical imperative" means. In Christine Korsgaard's [Creating the Kingdom of Ends](https://www.cambridge.org/core/books/creating-the-kingdom-of-ends/8C5CA1EFA210C42260A94D02494FD498):
+
+> Hypothetical imperatives [are] principles which instruct us to do certain actions if we want certain ends...
+
+> ....
+
+> Willing something is determining yourself to be the cause of that thing, which means determining yourself to use the available causal connections — the means — to it. "Willing the end" is already posited as the hypothesis, and we need only analyze it to arrive at willing the means. If you will to be able to play the piano, then you already will to practice, as that is the "indispensably necessary means to it" that "lie in your power." But the moral ought is not expressed by a hypothetical imperative. Our duties hold for us regardless of what we want. A moral rule does not say "do this if you want that" but simply "do this." It is expressed in a categorical imperative. For instance, the moral law says that you must respect the rights of others. Nothing is already posited, which can then be analyzed.
