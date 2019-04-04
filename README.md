@@ -283,3 +283,10 @@ Deontology is another family of theories whose definition can wiggle through our
 
 Kagan goes on to explain why of the various definitions, this one is best. That explanation will not be detailed here, but let's keep this tenuously in mind as we dive into one of the deontological theories to give us a sense of what deontology entails. It would be absurd if these constraints were arbitrary, nothing more than consequentialism combined with "also, don't do these specific things because they seem icky and I don't like them," so we will take a look at one of the prominent deontological theories: Kantianism.
 
+#### Kant's First Formula
+
+In Julia Driver's [Ethics: The Fundamentals](https://books.google.com/books/about/Ethics.html?id=WzBtzTATyBMC), Driver introduces us to deontology through Kant's moral theory, saying this of the theory:
+
+> Immanuel Kant's theory is perhaps the most well-known exemplar of the deontological approach...whether or not a contemplated course of action is morally permissible will depend on whether or not it conforms to what he terms the moral law, the categorical imperative.
+
+There's a tone here that seems noticeably different from consequentialist talk. Permissibility as conforming to moral law could still be consequentialist if that law is something like "maximize the good," but this description seems to indicate something else. To figure this out, we need an explanation of what "the categorical imperative" means. In Christine Korsgaard's [Creating the Kingdom of Ends](https://www.cambridge.org/core/books/creating-the-kingdom-of-ends/8C5CA1EFA210C42260A94D02494FD498):
