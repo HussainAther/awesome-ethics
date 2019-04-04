@@ -1,6 +1,36 @@
 # [Awesome ethics](#Awesome-ethics)
 A curated list of awesome ethics
 
+# [Table of contents](#Table-of-contents)
+
+* [What is ethics](#What-is-ethics?)
+
+    * [Meta-ethics (Metaethics)](#Meta-ethics-Metaethics)
+    
+    * [Applied ethics](#Applied-ethics)
+    
+    * [Normative ethics](#Normative-ethics)
+    
+* [Reading](#Reading)
+
+    * [Normative ethics](#Normative-ethics)
+    
+    * [Issues in normative ethics](#Issues-in-normative-ethics)
+    
+    * [Consequentialism](#Consequentialism)
+    
+    * [Deontology](#Deontology)
+    
+    * [Virtue ethics](#Virtue-ethics)
+    
+    * [Meta-ethics (Metaethics)](#Meta-ethics-Metaethics)
+    
+    * [Moral judgement](#Moral-judgement)
+    
+    * [Moral responsibility](#Moral-responsibility)
+    
+    * [Moral realism and irrealism](#Moral-realism-and-irrealism)
+    
 # What is ethics?
 
 Ethics, then, is approximately about the questions to do with the nature, content, and application of morality, and so is the study of morality in general.
@@ -11,7 +41,7 @@ Questions of theoretical content, what makes something right, wrong, good, bad, 
 
 Questions of conduct related to specific issues in the real world to do with business, professional, social, environmental, bioethics, and personhood typically fall under applied ethics. These can be things like abortion, euthanasia, treatment of non-human animals, marketing, and charity.
 
-## Metaethics
+## Meta-ethics (Metaethics)
 
 Metaethics is occasionally referred to as a "second-order" discipline to make a distinction between itself and areas that are less about questions regarding what morality itself is. Questions about the most plausible metaphysical report of moral facts or the link between moral judgment, motivation, and knowledge are questions can be described as such, and so are metaethical questions. There are several rough divisions that have been created to introduce metaethics adequately. Either of these distinctions should be sufficient for getting a distant sense of what metaethics is.
 
@@ -350,7 +380,7 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 > In this entry, Ridge lays out another way of categorizing theories in normative ethics in an accessible manner.
 
-## Normative ethics issues
+## Issues in normative ethics
 
 * Christopher Heathwood [Welfare](http://spot.colorado.edu/~heathwoo/welfare.pdf). 2010.
 
@@ -422,7 +452,7 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * Chapter 7 of Driver (see above). 2006.
 
-## Metaethics
+## Meta-ethics (Metaethics)
 
 * Andrew Fisher [Metaethics: An Introduction](https://books.google.com/books/about/Metaethics.html?id=VbiNZwEACAAJ). 2011.
 
