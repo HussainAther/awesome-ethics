@@ -1,6 +1,16 @@
 # [Awesome ethics](#Awesome-ethics)
 A curated list of awesome ethics
 
+# What is ethics?
+
+Ethics, then, is approximately about the questions to do with the nature, content, and application of morality, and so is the study of morality in general.
+
+Questions of moral language, psychology, phenomonenology (see above), epistemology, and ontology typically fall under metaethics.
+
+Questions of theoretical content, what makes something right, wrong, good, bad, obligatory, or supererogatory typically fall under normative ethics.
+
+Questions of conduct related to specific issues in the real world to do with business, professional, social, environmental, bioethics, and personhood typically fall under applied ethics. These can be things like abortion, euthanasia, treatment of non-human animals, marketing, and charity.
+
 ## Reading
 
 ###  Normative ethics
@@ -364,3 +374,5 @@ Practical intelligence can be described much more briefly to get a sense of its 
 Julia Annas elaborates to greater detail in "Intelligent Virtue":
 
 > The way our characters develop is to some extent a matter of natural endowment; some of us have traits ‘by nature’—we will tend to act bravely or generously without having to learn to do so, or to think about it. This is ‘natural virtue’, which we have already encountered. Different people will have different natural virtues, and one person may be naturally endowed in one area of life but not others—naturally brave, for example, but not naturally generous. However, claims Aristotle, this can’t be the whole story about virtue. For one thing, children and animals can have some of these traits, but in them they are not virtues. Further, these natural traits are harmful if not guided by ‘the intellect’, which in this context is specified as practical wisdom or practical intelligence (phronesis). Just as a powerfully built person will stumble and fall if he cannot see, so a natural tendency to bravery can stumble unseeingly into ethical disaster because the person has not learned to look out for crucial factors in the situation. Our natural practical traits need to be formed and educated in an intelligent way for them to develop as virtues; a natural trait may just proceed blindly on where virtue would respond selectively and in a way open to novel information and contexts.
+
+2.4 Are these taxonomic imperfections bad? How do we get over vague definitions?
