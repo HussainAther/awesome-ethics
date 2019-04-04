@@ -246,3 +246,11 @@ Consequentialism is a family of theories that are centrally concerned with conse
 > the agent is morally required to performed the act with the best consequences. The optimal act is the only act that is morally permissible; no other act is morally right. Thus the consequentialist is not making the considerably more modest claim that performing the act with the best consequences is—although generally not obligatory—the nicest or the most praiseworthy thing to do. Rather, performing the optimal act is morally required: anything else is morally forbidden.
 > the right act is the act that leads to the greatest total amount of happiness overall.
 > the consequences [are evaluated] in terms of how they affect everyone's well-being...
+
+And of course, these can be divided even further, but what's salient is there appear to be a great many more claims entailed in this classical form of utilitarianism than one might think first glance: classical utilitarianism is an agent-neutral theory in which acts that actually result in the optimal amount of happiness for everyone is obligatory. By understanding all of these points, we can understand how consequentialism differs from this classical utilitarianism and thus what it means to be consequentialist.
+
+#### The limits of contemporary consequentialism
+
+Many of these claims don't seem necessary to the label "consequentialism" and give us an unnecessarily narrow sense of what the word could mean.
+
+It seems desirable to want to broaden the scope of the term then, and in fact, this hasn't only been done simply to help understand consequentialism, but to defend against criticisms of consequentialism. In Campbell Brown's [Consequentialize This](http://www.research.ed.ac.uk/portal/files/12473535/BROWN_C_Consequentialize_This.pdf), we get a brief description of one motivation behind radical consequentializing:  
