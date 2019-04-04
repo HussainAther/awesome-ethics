@@ -351,3 +351,8 @@ So it is important to stress then that virtue is the central concept for virtue 
 
 > (iv) The virtues or virtuous agents themselves – as well as their value – could (but need not) be explained in terms of further states, such as health, eudaimonia, etc., but where these further states do not require an appeal to rightness or goodness.
 
+It should be emphasized again that this describes only some theories in this family, but they are good theories to focus on because much of the discussion around these theories would be representative of discussion around virtue ethics in general.
+
+> It is worth stressing that not all theories that could plausibly be understood as forms of virtue ethics would satisfy the above conditions; the current goal is not to defend all possible virtue ethics. Rather, we are examining what might be taken to be among the more radical possible forms of virtue ethics, particularly in treating the virtues as explanatorily prior both to rightness and to goodness tout court. Why focus on these more radical forms? First, several prominent virtue ethics can be understood as satisfying the above conditions, including those of Michael Slote, Linda Zagzebski, and, perhaps (if controversially), Aristotle’s paradigmatic virtue ethics. Beyond this, many of the arguments presented here could be taken on board by those defending more moderate forms of virtue ethics, such as Rosalind Hursthouse or Christine Swanton (against those who would attempt to argue for the explanatory primacy of the right or of the good, for example). Thus the range of interest for most of these arguments will extend beyond those focusing on the more radical approaches.
+
+#### Practical intelligence
