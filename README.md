@@ -332,3 +332,22 @@ A virtue is described as lasting, reliable, and characteristic in Julia Annas's 
 > ....
 
 > Further, a virtue is a disposition which is characteristic—that is, the virtuous (or vicious) person is acting in and from character when acting in a kindly, brave or restrained way. This is another way of putting the point that a virtue is a deep feature of the person. A virtue is a disposition which is central to the person, to whom he or she is, a way we standardly think of character. I might discover that I have an unsuspected talent for Sudoku, but this, although it enlarges my talents, does not alter my character. But someone who discovers in himself an unsuspected capacity to feel and act on compassion, and who develops this capacity, does come to change as a person, not just in some isolated feature; he comes to have a changed character.
+
+Virtue ethics, then, is centered around something that is roughly this concept. Note that any plausible theory is going to incorporate all of the concepts we've gone over on normative ethics. We can go back to Kagan's Normative Ethics from above, where he notes the relevancy of consequences in every theory.
+
+> all plausible theories agree that goodness of consequences is at least one factor relevant to the moral status of acts. (No plausible theory would hold, for example, that it was irrelevant whether an act would lead to disaster!)
+
+Similarly, other theories will have an account of virtue, as Jason Kawall's [In Defense of the Primacy of the Virtues](https://philarchive.org/archive/KAWIDOv1) briefly describes:
+
+> Consequentialists will treat the virtues as character traits that serve to maximize (or produce sufficient quantities of) the good, where the good is taken as explanatorily basic. Deontologists will understand the virtues in terms of dispositions to respect and act in accordance with moral rules, or to perform morally right actions, where these moral rules or right actions are fundamental. Furthermore, the virtues will be considered valuable just insofar as they involve such tendencies to maximize the good or to perform right actions.
+
+So it is important to stress then that virtue is the central concept for virtue ethics, and is no more simply a theory that makes relevant an account of virtue any more than consequentialism is any theory that makes relevant an account of consequences. One way we can come to understand virtue ethics better is by understanding a specific kind of virtue ethics, theories which satisfying four conditions laid out by Kawall:
+
+> (i) The concepts of rightness and goodness would be explained in terms of virtue concepts (or the concept of a virtuous agent).
+
+> (ii) Rightness and goodness would be explained in terms of the virtues or virtuous agents.
+
+> (iii) The explanatory primacy of the virtues or virtuous agents (and virtue concepts) would reflect a metaphysical dependence of rightness and goodness upon the virtues or virtuous agents.
+
+> (iv) The virtues or virtuous agents themselves – as well as their value – could (but need not) be explained in terms of further states, such as health, eudaimonia, etc., but where these further states do not require an appeal to rightness or goodness.
+
