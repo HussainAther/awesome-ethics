@@ -299,6 +299,35 @@ Julia Annas elaborates to greater detail in "Intelligent Virtue":
 
 #### Are these taxonomic imperfections bad? How do we get over vague definitions?
 
+It might be tempting to read all of this and think there's some sort of difficulty in discussing normative ethics. In general, academic discourse does not hinge on definitions, and so definitions are not a very large concern. And yet, it might appear upon reading this that ethics is some sort of exception. When philosophers talk about adaptationism in evolution or causation in metaphysics, the definitions they provide seem a lot more precise, so why is ethics an exception?
+
+The answer is uninterestingly that ethics is not an exception. It is important to avoid confusing what has been read here as some sort of fundamental ambiguity in these theories. Consider Brown's motive for resisting consequentialization as a response to Dreir's motive for consequentialization.
+
+> I’ll close by drawing out another moral of my conclusion, related to something Dreier says. Dreier’s motivation for consequentializing is that he wants to overcome a certain “stigma” which he says afflicts defenders of “common sense morality” when they try to deny consequentialism. To deny consequentialism, he says, they must claim that we are sometimes required to do less good than we might, but that claim has a “paradoxical air.” So defenders of commonsense morality, who deny consequentialism, are stigmatized as having a seemingly paradoxical position.
+
+> ....
+
+> Dreier thinks the way to avoid the stigma is to avoid denying consequentialism. If we consequentialize commonsense morality, then defenders of commonsense morality need not deny consequentialism. If I’m right, however, this way of avoiding the stigma doesn’t work...
+
+Note that this is entirely orthogonal to the plausibility of any particular theory. Whatever stigmas exist makes no difference on whether or not some particular theory happens to be correct. It may prove useful to helping beginners gain a sense of what they're talking about, but beyond pedagogical utility, it's disputed that this distinction actually tells us, at a very fundamental level, what these theories are all about.
+
+In Michael Ridge's [Reasons for Action: Agent-Neutral vs. Agent-Relative](https://plato.stanford.edu/entries/reasons-agent/#WhyDisMat), Ridge points out one of the alternative distinctions that might have a more prominent role in describing what fundamentally distinguishes these theories.
+
+> The agent-relative/agent-neutral distinction is widely and rightly regarded as a philosophically important one.
+
+> ....
+
+> The distinction has played a very useful role in framing certain interesting and important debates in normative philosophy.
+
+> For a start, the distinction helps frame a challenge to the traditional assumption that what separates so-called consequentialists and deontologists is that the former but not the latter are committed to the idea that all reasons for action are teleological. A deontological restriction forbids a certain sort of action (e.g., stealing) even when stealing here is the only way to prevent even more stealing in the long run. Consequentialists charge that such a restriction must be irrational, on the grounds that if stealing is forbidden then it must be bad but if it is bad then surely less stealing is better than more. The deontologist can respond in one of two ways. First, they could hold that deontological restrictions correspond to non-teleological reasons. The reason not to steal, on this account, is not that stealing is bad in the sense that it should be minimized but rather simply that stealing is forbidden no matter what the consequences (this is admittedly a stark form of deontology, but there are less stern versions as well). This is indeed one way of understanding the divide between consequentialists and deontologists, but the agent-relative/agent-neutral distinction, and in particular the idea of agent-relative reasons, brings to the fore an alternative conception. For arguably, we could instead understand deontological restrictions as corresponding to a species of reasons which are teleological after all so long as those reasons are agent-relative. If my reason not to steal is that I should minimize my stealing then the fact that my stealing here would prevent five other people from committing similar acts of theft does nothing to suggest that I ought to steal.
+
+> ....
+
+> If Dreier is right [that in effect we can consequentialize deontology] then the agent-relative/agent-neutral distinction may be more important than the distinction between consequentialist theories and non-consequentialist theories.
+
+The section goes on to detail several ways we can look at this issue so we can understand the importance of this distinction and what it can tell us about the structure and plausibility of certain theories. So while the typical division between consequentialist, deontological, and virtue ethical theories can be superficially valuable to those getting into ethics, it is important to not overstate the significance of these families and their implications.
+
+
 # Reading
 
 ##  Normative ethics
