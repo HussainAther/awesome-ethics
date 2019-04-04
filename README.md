@@ -296,3 +296,11 @@ There's a tone here that seems noticeably different from consequentialist talk. 
 > ....
 
 > Willing something is determining yourself to be the cause of that thing, which means determining yourself to use the available causal connections — the means — to it. "Willing the end" is already posited as the hypothesis, and we need only analyze it to arrive at willing the means. If you will to be able to play the piano, then you already will to practice, as that is the "indispensably necessary means to it" that "lie in your power." But the moral ought is not expressed by a hypothetical imperative. Our duties hold for us regardless of what we want. A moral rule does not say "do this if you want that" but simply "do this." It is expressed in a categorical imperative. For instance, the moral law says that you must respect the rights of others. Nothing is already posited, which can then be analyzed.
+
+We now have a fairly detailed description of what the distinction between a hypothetical and categorical imperative is, with fine examples to boot. Note that already, it's clear this theory can't be consequentialized according to Brown, but we must go further to remove any doubt as a result of controversy over Brown's formulation. Korsgaard goes on to explain what is necessarily entailed as a part of the categorical imperative in her description of Kant's first formula.
+
+> If we remove all purposes — all material — from the will, what is left is the formal principle of the will. The formal principle of duty is just that it is duty — that it is law. The essentially character of law is universality. Therefore, the person who acts from duty attends to the universality of his/her principle. He or she only acts on a maxim that he or she could will to be universal law (G 402).
+
+> ....
+
+> But how can you tell whether you are able to will your maxim as a universal law? On Kant's view, it is a matter of what you can will without contradiction...you envision trying to will your maxim in a world in which the maxim is universalized — in which it is a law of nature. You are to "Ask yourself whether, if the action which you propose should take place by a law of nature of which you yourself were a part, you could regard it as possible through your will" (C2 69)
