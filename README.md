@@ -304,3 +304,13 @@ We now have a fairly detailed description of what the distinction between a hypo
 > ....
 
 > But how can you tell whether you are able to will your maxim as a universal law? On Kant's view, it is a matter of what you can will without contradiction...you envision trying to will your maxim in a world in which the maxim is universalized — in which it is a law of nature. You are to "Ask yourself whether, if the action which you propose should take place by a law of nature of which you yourself were a part, you could regard it as possible through your will" (C2 69)
+
+Already, upon encountering this first formulation of the categorical imperative, we have now well established that any limit on consequentialization would leave Kant's moral theory able to resist it. For one, the rightness or wrongness of actions is conforming to moral law such that the outcomes are no longer centrally a point of consideration. This does not mean we have deprived ethics of consequences, as Kagan points out in [Normative Ethics](https://westviewpress.com/books/normative-ethics/):
+
+> [the goodness of outcomes] is a factor I think virtually everyone recognizes as morally relevant. It may not be the only factor that is important for determining the moral status of an act, but it is certainly one relevant factor.
+
+Kantianism is notwithstanding deciding the status of actions not on the sole basis of outcomes. As well, it fails Brown's dominance formulation.
+
+The two other formulas are not within the scope of this section, nor is evidence for Kant's theory. The purpose of detailing Kantianism at all was to demonstrate deontology as conforming to moral law in a manner distinct from consequentialism. As well, it is sufficient to remind ourselves that there is a massive amount of evidence for each of these types of theories without having to detail it in this section for this theory in particular. As well, there are other types of deontological theories, also with a great deal of evidence. Scanlon's moral theory and Ross's moral theory are other prominent examples of deontology.
+
+We are now left with a fairly strong sense of what deontological theories look like. There is some imprecision in that sense, this will be discussed in [another section](https://www.reddit.com/r/Ethics/wiki/faq#wiki_2.4_are_these_taxonomic_imperfections_bad.3F_how_do_we_get_over_vague_definitions). For now, we must move on to address virtue ethics.
