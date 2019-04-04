@@ -1,6 +1,8 @@
 # [Awesome ethics](#Awesome-ethics)
 A curated list of awesome ethics
 
+Ethics has been divided traditionally into three areas concerning how we ought conduct ourselves. This section is dedicated to clarifying the scope of these areas, with all bolded emphases the writer's. 
+
 # [Table of contents](#Table-of-contents)
 
 * [What is ethics?](#What-is-ethics)
