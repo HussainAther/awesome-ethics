@@ -314,3 +314,21 @@ Kantianism is notwithstanding deciding the status of actions not on the sole bas
 The two other formulas are not within the scope of this section, nor is evidence for Kant's theory. The purpose of detailing Kantianism at all was to demonstrate deontology as conforming to moral law in a manner distinct from consequentialism. As well, it is sufficient to remind ourselves that there is a massive amount of evidence for each of these types of theories without having to detail it in this section for this theory in particular. As well, there are other types of deontological theories, also with a great deal of evidence. Scanlon's moral theory and Ross's moral theory are other prominent examples of deontology.
 
 We are now left with a fairly strong sense of what deontological theories look like. There is some imprecision in that sense, this will be discussed in [another section](https://www.reddit.com/r/Ethics/wiki/faq#wiki_2.4_are_these_taxonomic_imperfections_bad.3F_how_do_we_get_over_vague_definitions). For now, we must move on to address virtue ethics.
+
+### Ethics as grounded in character: Virtue Ethics
+
+Virtue ethics, the final family of theories described in the section on normative ethics, is predictably concerned primarily with virtue and practical intelligence.
+
+#### Virtue
+
+A virtue is described as lasting, reliable, and characteristic in Julia Annas's [Intelligent Virtue](https://global.oup.com/academic/product/intelligent-virtue-9780199228775):
+
+> A virtue is a lasting feature of a person, a tendency for the person to be a certain way. It is not merely a lasting feature, however, one that just sits there undisturbed. It is active: to have it is to be disposed to act in certain ways. And it develops through selective response to circumstances. Given these points, I shall use the term persisting rather than merely lasting. Jane’s generosity, supposing her to be generous, persists through challenges and difficulties, and is strengthened or weakened by her generous or ungenerous responses respectively. Thus, although it is natural for us to think of a virtue as a disposition, we should be careful not to confuse this with the scientific notion of disposition, which just is a static lasting tendency...
+
+> ....
+
+> A virtue is also a reliable disposition. If Jane is generous, it is no accident that she does the generous action and has generous feelings. We would have been surprised, and shocked, if she had failed to act generously, and looked for some kind of explanation. Our friends’ virtues and vices enable us to rely on their responses and behaviour—to a certain extent, of course, since none of us is virtuous enough to be completely reliable in virtuous response and action.
+
+> ....
+
+> Further, a virtue is a disposition which is characteristic—that is, the virtuous (or vicious) person is acting in and from character when acting in a kindly, brave or restrained way. This is another way of putting the point that a virtue is a deep feature of the person. A virtue is a disposition which is central to the person, to whom he or she is, a way we standardly think of character. I might discover that I have an unsuspected talent for Sudoku, but this, although it enlarges my talents, does not alter my character. But someone who discovers in himself an unsuspected capacity to feel and act on compassion, and who develops this capacity, does come to change as a person, not just in some isolated feature; he comes to have a changed character.
