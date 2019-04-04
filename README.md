@@ -368,7 +368,7 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * James Rachels and Stuart Rachels [The Elements of Moral Philosophy](https://www.barnesandnoble.com/w/the-elements-of-moral-philosophy-james-rachels/1121343445). 2014.
 
-> Includes a minimal definition of normative ethics as a whole.
+Includes a minimal definition of normative ethics as a whole.
 
 * Mark Timmons [Moral Theory: An Introduction](https://books.google.com/books?id=qWGp1iK9IlAC). 2012.
 
@@ -378,7 +378,7 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * Michael Ridge Stanford Encyclopedia of Philosophy entry on [Reasons for Action: Agent-Neutral vs. Agent-Relative](https://plato.stanford.edu/entries/reasons-agent/). 2017.
 
-> In this entry, Ridge lays out another way of categorizing theories in normative ethics in an accessible manner.
+In this entry, Ridge lays out another way of categorizing theories in normative ethics in an accessible manner.
 
 ## Issues in normative ethics
 
@@ -400,15 +400,15 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * William Shaw [Contemporary Ethics: Taking Account of Utilitarianism](https://books.google.com/books?id=nb88LtgGnMAC). 1999.
 
-> About the best introduction that one can find to one of the consequentialist theories: utilitarianism.
+About the best introduction that one can find to one of the consequentialist theories: utilitarianism.
 
 * J.J.C. Smart and Bernard Williams [Utilitarianism: For and Against](https://books.google.com/books?id=J0w3ER2fWv4C). 1973.
 
-> An introduction to the debate over utilitarianism.
+An introduction to the debate over utilitarianism.
 
 * Campbell Brown [Consequentialize This](http://www.research.ed.ac.uk/portal/files/12473535/BROWN_C_Consequentialize_This.pdf). 2011.
 
-> An influential work that lays out a decent strategy for keeping consequentialist theories of ethics distinct from other theories.
+An influential work that lays out a decent strategy for keeping consequentialist theories of ethics distinct from other theories.
 
 * Walter Sinnott-Armstrong's Stanford Encyclopedia of Philosophy entry on [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). 2015. A
 
@@ -420,19 +420,19 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * Christine Korsgaard [Creating the Kingdom of Ends](https://www.cambridge.org/core/books/creating-the-kingdom-of-ends/8C5CA1EFA210C42260A94D02494FD498). 1996.
 
-> A good introduction to and strong defense of Kantianism.
+A good introduction to and strong defense of Kantianism.
 
 * John Rawls [A Theory of Justice: Revised Edition](http://www.hup.harvard.edu/catalog.php?isbn=9780674000780&content=reviews). 1999.
 
-> Rawls's revolutionary work in both ethics and political philosophy in which he describes justice as fairness, a view he would continue to develop later on.
+Rawls's revolutionary work in both ethics and political philosophy in which he describes justice as fairness, a view he would continue to develop later on.
 
 * Robert Audi [The Good in the Right: A Theory of Intuition and Intrinsic Value](https://press.princeton.edu/titles/7750.html). 2005.
 
->   A significant improvement and defense of one of the most influential deontological alternatives to Kantianism: Rossian deontology.
+A significant improvement and defense of one of the most influential deontological alternatives to Kantianism: Rossian deontology.
 
 * T.M. Scanlon [What We Owe to Each Other](http://www.hup.harvard.edu/catalog.php?isbn=9780674004238). 2000.
 
-> Scanlon, one of the most notable contributors to political and ethical philosophy among his contemporaries, provides an updated and comprehensive account of his formulation of contractualism.
+Scanlon, one of the most notable contributors to political and ethical philosophy among his contemporaries, provides an updated and comprehensive account of his formulation of contractualism.
 
 * Larry Alexander and Michael Moore Stanford Encyclopedia of Philosophy entry on [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/). 2016.
 
@@ -442,7 +442,7 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * Rosalind Hursthouse [Virtue Theory and Abortion](https://www.jstor.org/stable/2265432). 1991.
 
-> Hursthouse's groundbreaking and accessible work on virtue theory.
+Hursthouse's groundbreaking and accessible work on virtue theory.
 
 * Julia Annas [Intelligent Virtue](https://global.oup.com/academic/product/intelligent-virtue-9780199228775). 2011.
 
@@ -464,7 +464,7 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * [The Routledge Handbook of Metaethics](https://www.routledge.com/The-Routledge-Handbook-of-Metaethics/McPherson-Plunkett/p/book/9781138812208). 2017.
 
-> This is probably a more difficult read than the others, but it is incredibly comprehensive and helpful. There are many things in this handbook that I've been reading about for a long time that I didn't feel confident about until reading this. Certainly worth the cost.
+This is probably a more difficult read than the others, but it is incredibly comprehensive and helpful. There are many things in this handbook that I've been reading about for a long time that I didn't feel confident about until reading this. Certainly worth the cost.
 
 * [The Oxford Handbook of Ethical Theory](https://global.oup.com/academic/product/the-oxford-handbook-of-ethical-theory-9780195147797?cc=us&lang=en&). 2005.
 
@@ -472,7 +472,7 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * Michael Smith [The Moral Problem](https://link.springer.com/article/10.1023%2FA%3A1009976621075). 1998.
 
-> A must read for those who want to engage with issues in moral judgment, functioning both as a work popularly considered the most important in the topic as well as a great introduction.
+A must read for those who want to engage with issues in moral judgment, functioning both as a work popularly considered the most important in the topic as well as a great introduction.
 
 * Chapter 3 of Miller (see above). 2013.
 
@@ -496,11 +496,11 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * Stephen Finlay [Four Faces of Moral Realism](http://www-bcf.usc.edu/~finlay/Moral%20Realism.pdf). 2007.
 
-> A very popular Philosophy Compass paper that lays out very simply what moral realism is without arguing for or against any position.
+A very popular Philosophy Compass paper that lays out very simply what moral realism is without arguing for or against any position.
 
 * Terrence Cuneo [The Normative Web](https://books.google.com/books?id=ROrnCwAAQBAJ). 2007.
 
-> An obligatory text laying out the popular companions in guilt argument for moral realisms.
+An obligatory text laying out the popular companions in guilt argument for moral realisms.
 
 * Smith (see above). 1998.
 
@@ -512,7 +512,7 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * Katia Vavova [Debunking Evolutionary Debunking](https://philpapers.org/archive/VAVDED.pdf). 2013.
 
-> Here, Vavova provides a very influential, comprehensive, and easy to read overview of evolutionary debunking arguments, in which she also takes the liberty of pointing out their flaws.
+Here, Vavova provides a very influential, comprehensive, and easy to read overview of evolutionary debunking arguments, in which she also takes the liberty of pointing out their flaws.
 
 * Geoff Sayre-McCord Stanford Encyclopedia of Philosophy entry on [Moral Realism](https://plato.stanford.edu/entries/moral-realism/). 2015.
 
@@ -526,6 +526,6 @@ The section goes on to detail several ways we can look at this issue so we can u
 
 * Christine Korsgaard [The Sources of Normativity](https://tannerlectures.utah.edu/_documents/a-to-z/k/korsgaard94.pdf). 1992.
 
-> Korsgaard's brilliant description, as well as her defense, of a form of Kantian constructivism.
+Korsgaard's brilliant description, as well as her defense, of a form of Kantian constructivism.
 
 * Carla Bagnoli [Constructivism in Metaethics](https://plato.stanford.edu/entries/constructivism-metaethics/). 2017.
