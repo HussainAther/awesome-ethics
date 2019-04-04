@@ -135,6 +135,44 @@ A curated list of awesome ethics
 
 * Andrew Eshelman Stanford Encyclopedia of Philosophy entry on [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/). 2014.
 
+### Moral realism and irrealism
+
+* Stephen Finlay [Four Faces of Moral Realism](http://www-bcf.usc.edu/~finlay/Moral%20Realism.pdf). 2007.
+
+> A very popular Philosophy Compass paper that lays out very simply what moral realism is without arguing for or against any position.
+
+* Terrence Cuneo [The Normative Web](https://books.google.com/books?id=ROrnCwAAQBAJ). 2007.
+
+> An obligatory text laying out the popular companions in guilt argument for moral realisms.
+
+* Smith (see above). 1998.
+
+* Enoch (see above). 2011.
+
+* Chapter 8, 9, and 10 of Miller (see above). 2013.
+
+* Shafer-Landau (see above). 2005.
+
+* Katia Vavova [Debunking Evolutionary Debunking](https://philpapers.org/archive/VAVDED.pdf). 2013.
+
+> Here, Vavova provides a very influential, comprehensive, and easy to read overview of evolutionary debunking arguments, in which she also takes the liberty of pointing out their flaws.
+
+* Geoff Sayre-McCord Stanford Encyclopedia of Philosophy entry on [Moral Realism](https://plato.stanford.edu/entries/moral-realism/). 2015.
+
+* Chapter 3, 4, 5, and 6 of Miller (see above). 2013.
+
+* Mark van Roojen [Moral Cognitvism vs. Moral Non-cognitivism](https://plato.stanford.edu/entries/moral-cognitivism/). 2013.
+
+* Richard Joyce Moral [Anti-realism](https://plato.stanford.edu/entries/moral-anti-realism/). 2015.
+
+* Sharon Street [What is Constructivism in Ethics and Metaethics?](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2009.00280.x/full). 2010.
+
+* Christine Korsgaard [The Sources of Normativity](https://tannerlectures.utah.edu/_documents/a-to-z/k/korsgaard94.pdf). 1992.
+
+> Korsgaard's brilliant description, as well as her defense, of a form of Kantian constructivism.
+
+* Carla Bagnoli [Constructivism in Metaethics](https://plato.stanford.edu/entries/constructivism-metaethics/). 2017.
+
 ## Metaethics
 
 Metaethics is occasionally referred to as a "second-order" discipline to make a distinction between itself and areas that are less about questions regarding what morality itself is. Questions about the most plausible metaphysical report of moral facts or the link between moral judgment, motivation, and knowledge are questions can be described as such, and so are metaethical questions. There are several rough divisions that have been created to introduce metaethics adequately. Either of these distinctions should be sufficient for getting a distant sense of what metaethics is.
@@ -196,3 +234,6 @@ So what does the application of ethics to practical issues look like?
 We can take a look at two of the issues that Singer brings up — abortion and animal rights — to get a sense of what sort of evidence might be taken into consideration with these matters. Keep in mind that this is written with the intention of providing a sense of how discussions in applied ethics develop rather than a comprehensive survey of views in each topic.
 
 ## Normative ethics
+
+Normative ethics deals very directly with the question of conduct. Much of the discipline is dedicated to discovering ethical theories capable of describing what we ought to do. But what does ought mean? In different contexts, while ought tends to deal with normativity and value, it does not always deal with ethics. The oughts that link aesthetics and normativity are not obviously the same as the oughts that we're dealing with here. The questions of what oughts exist in normative ethics have a great deal to do with concepts like what is "permissible" or "impermissible," what is "right" or "wrong," or what is "good" and "bad." It should be contrasted with how people do act, as well as the moral code of some person or group. These are not what normative ethics is about, but rather what genuinely is correct when it comes to how we ought to live our lives. For now, we can roughly divide the main theories of this area into three categories, though these are not the only categories: consequentialism, deontology, and virtue theory. As noted, there are other theories, and there are even other problems in normative ethics as well, but these three types of theories will be detailed below as well as what we should take from an understanding of the three categories.
+
