@@ -11,178 +11,6 @@ Questions of theoretical content, what makes something right, wrong, good, bad, 
 
 Questions of conduct related to specific issues in the real world to do with business, professional, social, environmental, bioethics, and personhood typically fall under applied ethics. These can be things like abortion, euthanasia, treatment of non-human animals, marketing, and charity.
 
-## Reading
-
-###  Normative ethics
-
-* Julia Driver [Ethics: The Fundamentals](https://books.google.com/books?id=tpfZX3D20L0C). 2006.
-
-* Michael Sandel [Justice: What's the Right Thing To Do?](https://www.indiebound.org/book/9780374532505). 2010.
-
-* James Rachels and Stuart Rachels [The Elements of Moral Philosophy](https://www.barnesandnoble.com/w/the-elements-of-moral-philosophy-james-rachels/1121343445). 2014.
-
-> Includes a minimal definition of normative ethics as a whole.
-
-* Mark Timmons [Moral Theory: An Introduction](https://books.google.com/books?id=qWGp1iK9IlAC). 2012.
-
-* Bernard Williams [Morality: An Introduction to Ethics](http://www.cambridge.org/gb/academic/subjects/philosophy/philosophy-general-interest/morality-introduction-ethics-2?format=PB#z1FOHMiLj72P35vu.97). 2012.
-
-* Shelly Kagan [Normative Ethics](https://westviewpress.com/books/normative-ethics/). 1997.
-
-* Michael Ridge Stanford Encyclopedia of Philosophy entry on [Reasons for Action: Agent-Neutral vs. Agent-Relative](https://plato.stanford.edu/entries/reasons-agent/). 2017.
-
-> In this entry, Ridge lays out another way of categorizing theories in normative ethics in an accessible manner.
-
-### Normative ethics issues
-
-* Christopher Heathwood [Welfare](http://spot.colorado.edu/~heathwoo/welfare.pdf). 2010.
-
-* Roger Crisp Stanford Encyclopedia of Philosophy entry on [Well-being](https://plato.stanford.edu/entries/well-being/). 2017.
-
-* Michael Zimmerman Stanford Encyclopedia of Philosophy entry on [Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/). 2014.
-
-* Dana Nelkin Stanford Encyclopedia of Philosophy entry on [Moral Luck](https://plato.stanford.edu/entries/moral-luck/). 2013.
-
-* Stephen Stich, John Doris, and Erica Roedder [Altruism](http://www.rci.rutgers.edu/~stich/Publications/Papers/Altruism.pdf). 2008.
-
-* Robert Shaver Stanford Encyclopedia of Philosophy entry on [Egoism](https://plato.stanford.edu/entries/egoism/). 2014.
-
-* Joshua May Internet Encyclopedia of Philosophy entry on [Psychological Egoism](http://www.iep.utm.edu/psychego/). 2011.
-
-### Consequentialism
-
-* William Shaw [Contemporary Ethics: Taking Account of Utilitarianism](https://books.google.com/books?id=nb88LtgGnMAC). 1999.
-
-> About the best introduction that one can find to one of the consequentialist theories: utilitarianism.
-
-* J.J.C. Smart and Bernard Williams [Utilitarianism: For and Against](https://books.google.com/books?id=J0w3ER2fWv4C). 1973.
-
-> An introduction to the debate over utilitarianism.
-
-* Campbell Brown [Consequentialize This](http://www.research.ed.ac.uk/portal/files/12473535/BROWN_C_Consequentialize_This.pdf). 2011.
-
-> An influential work that lays out a decent strategy for keeping consequentialist theories of ethics distinct from other theories.
-
-* Walter Sinnott-Armstrong's Stanford Encyclopedia of Philosophy entry on [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). 2015. A
-
-* William Haines Internet Encyclopedia of Philosophy entry on [Consequentialism](http://www.iep.utm.edu/conseque/). 2006.
-
-* Chapter 3 and 4 of Driver (see above). 2006.
-
-### Deontology
-
-* Christine Korsgaard [Creating the Kingdom of Ends](https://www.cambridge.org/core/books/creating-the-kingdom-of-ends/8C5CA1EFA210C42260A94D02494FD498). 1996.
-
-> A good introduction to and strong defense of Kantianism.
-
-* John Rawls [A Theory of Justice: Revised Edition](http://www.hup.harvard.edu/catalog.php?isbn=9780674000780&content=reviews). 1999.
-
-> Rawls's revolutionary work in both ethics and political philosophy in which he describes justice as fairness, a view he would continue to develop later on.
-
-* Robert Audi [The Good in the Right: A Theory of Intuition and Intrinsic Value](https://press.princeton.edu/titles/7750.html). 2005.
-
->   A significant improvement and defense of one of the most influential deontological alternatives to Kantianism: Rossian deontology.
-
-* T.M. Scanlon [What We Owe to Each Other](http://www.hup.harvard.edu/catalog.php?isbn=9780674004238). 2000.
-
-> Scanlon, one of the most notable contributors to political and ethical philosophy among his contemporaries, provides an updated and comprehensive account of his formulation of contractualism.
-
-* Larry Alexander and Michael Moore Stanford Encyclopedia of Philosophy entry on [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/). 2016.
-
-* Chapter 5 and 6 of Driver (see above). 2006.
-
-### Virtue ethics
-
-* Rosalind Hursthouse [Virtue Theory and Abortion](https://www.jstor.org/stable/2265432). 1991.
-
-> Hursthouse's groundbreaking and accessible work on virtue theory.
-
-* Julia Annas [Intelligent Virtue](https://global.oup.com/academic/product/intelligent-virtue-9780199228775). 2011.
-
-* Jason Kawall [In Defense of the Primacy of the Virtues](https://philarchive.org/archive/KAWIDOv1). 2009.
-
-* Rosalind Hursthouse Stanford Encyclopedia of Philosophy entry on [Virtue Ethics](https://plato.stanford.edu/entries/ethics-virtue/). 2016.
-
-* Chapter 7 of Driver (see above). 2006.
-
-### Metaethics
-
-* Andrew Fisher [Metaethics: An Introduction](https://books.google.com/books/about/Metaethics.html?id=VbiNZwEACAAJ). 2011.
-
-* Alexander Miller [Contemporary Metaethics: An Introduction](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0745646581.html). 2013.
-
-* Mark van Roojen [Metaethics: A Contemporary Introduction](https://www.routledge.com/Metaethics-A-Contemporary-Introduction/van-Roojen/p/book/9780415894425). 2015.
-
-* Geoff Sayre-McCord's Stanford Encyclopedia of Philosophy entry on [Metaethics](https://plato.stanford.edu/entries/metaethics/). 2012.
-
-* [The Routledge Handbook of Metaethics](https://www.routledge.com/The-Routledge-Handbook-of-Metaethics/McPherson-Plunkett/p/book/9781138812208). 2017.
-
-> This is probably a more difficult read than the others, but it is incredibly comprehensive and helpful. There are many things in this handbook that I've been reading about for a long time that I didn't feel confident about until reading this. Certainly worth the cost.
-
-* [The Oxford Handbook of Ethical Theory](https://global.oup.com/academic/product/the-oxford-handbook-of-ethical-theory-9780195147797?cc=us&lang=en&). 2005.
-
-### Moral judgement
-
-* Michael Smith [The Moral Problem](https://link.springer.com/article/10.1023%2FA%3A1009976621075). 1998.
-
-> A must read for those who want to engage with issues in moral judgment, functioning both as a work popularly considered the most important in the topic as well as a great introduction.
-
-* Chapter 3 of Miller (see above). 2013.
-
-* Connie S. Rosati Stanford Encyclopedia of Philosophy entry on [Moral Motivation](https://plato.stanford.edu/entries/moral-motivation/). 2016.
-
-### Moral responsibility
-
-* P. F. Strawson [Freedom & Resentment](http://people.brandeis.edu/~teuber/P._F._Strawson_Freedom_&_Resentment.pdf). 1962.
-
-* John Martin Fischer and Mark Ravizza [Perspectives on Moral Responsibility](https://books.google.com/books/about/Perspectives_on_Moral_Responsibility.html?id=0ncN3TuDQ7cC). 1993.
-
-* Timothy O'Connor and Christopher Franklin Stanford Encyclopedia of Philosophy entry on [Free Will](https://plato.stanford.edu/entries/freewill/). 2018.
-
-* Michael McKenna and D. Justin Coates Stanford Encyclopedia of Philosophy entry on [Compatibilism](https://plato.stanford.edu/entries/compatibilism/). 2015.
-
-* Kadri Vihvelin Stanford Encyclopedia of Philosophy entry on [Arguments for Incompatibilism](https://plato.stanford.edu/entries/incompatibilism-arguments/). 2017.
-
-* Andrew Eshelman Stanford Encyclopedia of Philosophy entry on [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/). 2014.
-
-### Moral realism and irrealism
-
-* Stephen Finlay [Four Faces of Moral Realism](http://www-bcf.usc.edu/~finlay/Moral%20Realism.pdf). 2007.
-
-> A very popular Philosophy Compass paper that lays out very simply what moral realism is without arguing for or against any position.
-
-* Terrence Cuneo [The Normative Web](https://books.google.com/books?id=ROrnCwAAQBAJ). 2007.
-
-> An obligatory text laying out the popular companions in guilt argument for moral realisms.
-
-* Smith (see above). 1998.
-
-* Enoch (see above). 2011.
-
-* Chapter 8, 9, and 10 of Miller (see above). 2013.
-
-* Shafer-Landau (see above). 2005.
-
-* Katia Vavova [Debunking Evolutionary Debunking](https://philpapers.org/archive/VAVDED.pdf). 2013.
-
-> Here, Vavova provides a very influential, comprehensive, and easy to read overview of evolutionary debunking arguments, in which she also takes the liberty of pointing out their flaws.
-
-* Geoff Sayre-McCord Stanford Encyclopedia of Philosophy entry on [Moral Realism](https://plato.stanford.edu/entries/moral-realism/). 2015.
-
-* Chapter 3, 4, 5, and 6 of Miller (see above). 2013.
-
-* Mark van Roojen [Moral Cognitvism vs. Moral Non-cognitivism](https://plato.stanford.edu/entries/moral-cognitivism/). 2013.
-
-* Richard Joyce Moral [Anti-realism](https://plato.stanford.edu/entries/moral-anti-realism/). 2015.
-
-* Sharon Street [What is Constructivism in Ethics and Metaethics?](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2009.00280.x/full). 2010.
-
-* Christine Korsgaard [The Sources of Normativity](https://tannerlectures.utah.edu/_documents/a-to-z/k/korsgaard94.pdf). 1992.
-
-> Korsgaard's brilliant description, as well as her defense, of a form of Kantian constructivism.
-
-* Carla Bagnoli [Constructivism in Metaethics](https://plato.stanford.edu/entries/constructivism-metaethics/). 2017.
-
 ## Metaethics
 
 Metaethics is occasionally referred to as a "second-order" discipline to make a distinction between itself and areas that are less about questions regarding what morality itself is. Questions about the most plausible metaphysical report of moral facts or the link between moral judgment, motivation, and knowledge are questions can be described as such, and so are metaethical questions. There are several rough divisions that have been created to introduce metaethics adequately. Either of these distinctions should be sufficient for getting a distant sense of what metaethics is.
@@ -242,6 +70,100 @@ Finally, applied ethics is concerned with what is permissible in particular prac
 So what does the application of ethics to practical issues look like?
 
 We can take a look at two of the issues that Singer brings up — abortion and animal rights — to get a sense of what sort of evidence might be taken into consideration with these matters. Keep in mind that this is written with the intention of providing a sense of how discussions in applied ethics develop rather than a comprehensive survey of views in each topic.
+
+### Abortion
+
+In Rosalind Hursthouse's [Virtue Theory and Abortion](https://www.jstor.org/stable/2265432), Hursthouse gives a summary of the discussion on abortion as to do with the struggle between facts about the moral status of the fetus and women's rights.
+
+> As everyone knows, the morality of abortion is commonly discussed in relation to just two considerations: first, and predominantly, the status of the fetus and whether or not it is the sort of thing that may or may not be innocuously or justifiably killed; and second, and less predominantly (when, that is, the discussion concerns the morality of abortion rather than the question of permissible legislation in a just society), women's rights.
+
+Judith Jarvis Thomson, in [A Defense of Abortion](http://spot.colorado.edu/~heathwoo/Phil160,Fall02/thomson.htm), Thomson addresses a common version of the former consideration, refuting the slippery slope argument.
+
+> Most opposition to abortion relies on the premise that the fetus is a human being, a person, from the moment of conception. The premise is argued for, but, as I think, not well. Take, for example, the most common argument. We are asked to notice that the development of a human being from conception through birth into childhood is continuous; then it is said that to draw a line, to choose a point in this development and say "before this point the thing is not a person, after this point it is a person" is to make an arbitrary choice, a choice for which in the nature of things no good reason can be given. It is concluded that the fetus is, or anyway that we had better say it is, a person from the moment of conception. But this conclusion does not follow. Similar things might be said about the development of an acorn into an oak trees, and it does not follow that acorns are oak trees, or that we had better say they are. Arguments of this form are sometimes called "slippery slope arguments"--the phrase is perhaps self-explanatory--and it is dismaying that opponents of abortion rely on them so heavily and uncritically.
+
+Nonetheless, Thomson is willing to grant the premise, addressing instead whether or not we can make the case that abortion is impermissible given that the fetus is, indeed, a person. Thomson thinks that the argument that fetuses have the right to life and that right outweighs the right for the individual carrying the fetus to do as they wish with their body is faulty, but notes a limitation.
+
+> But now let me ask you to imagine this. You wake up in the morning and find yourself back to back in bed with an unconscious violinist. A famous unconscious violinist. He has been found to have a fatal kidney ailment, and the Society of Music Lovers has canvassed all the available medical records and found that you alone have the right blood type to help. They have therefore kidnapped you, and last night the violinist's circulatory system was plugged into yours, so that your kidneys can be used to extract poisons from his blood as well as your own. The director of the hospital now tells you, "Look, we're sorry the Society of Music Lovers did this to you--we would never have permitted it if we had known. But still, they did it, and the violinist is now plugged into you. To unplug you would be to kill him. But never mind, it's only for nine months. By then he will have recovered from his ailment, and can safely be unplugged from you." Is it morally incumbent on you to accede to this situation? No doubt it would be very nice of you if you did, a great kindness. But do you have to accede to it? What if it were not nine months, but nine years? Or longer still? What if the director of the hospital says. "Tough luck. I agree, but now you've got to stay in bed, with the violinist plugged into you, for the rest of your life. Because remember this. All persons have a right to life, and violinists are persons. Granted you have a right to decide what happens in and to your body, but a person's right to life outweighs your right to decide what happens in and to your body. So you cannot ever be unplugged from him." I imagine you would regard this as outrageous, which suggests that something really is wrong with that plausible-sounding argument I mentioned a moment ago.
+
+> In this case, of course, you were kidnapped, you didn't volunteer for the operation that plugged the violinist into your kidneys.
+
+Thomson goes on to address this limitation and goes back and forth between the issue of the fetus's and carrier's rights, but Hursthouse (see above) rejects this framework, noting in more detail that we can suppose that women have a right to abortion in a legal sense and still have to wrestle with whether or not abortion is permissible. On the status of fetuses, Hursthouse claims this too can be bypassed with virtue theory.
+
+> What about the consideration of the status of the fetus-what can virtue theory say about that? One might say that this issue is not in the province of any moral theory; it is a metaphysical question, and an extremely difficult one at that. Must virtue theory then wait upon metaphysics to come up with the answer?
+
+> ....
+
+> But the sort of wisdom that the fully virtuous person has is not supposed to be recondite; it does not call for fancy philosophical sophistication, and it does not depend upon, let alone wait upon, the discoveries of academic philosophers. And this entails the following, rather startling, conclusion: that the status of the fetus-that issue over which so much ink has been spilt-is, according to virtue theory, simply not relevant to the rightness or wrongness of abortion (within, that is, a secular morality).
+
+> Or rather, since that is clearly too radical a conclusion, it is in a sense relevant, but only in the sense that the familiar biological facts are relevant. By "the familiar biological facts" I mean the facts that most human societies are and have been familiar with-that, standardly (but not invariably), pregnancy occurs as the result of sexual intercourse, that it lasts about nine months, during which time the fetus grows and develops, that standardly it terminates in the birth of a living baby, and that this is how we all come to be.
+
+It is worth noting that Hursthouse's argument more centrally gives her conception of what virtue ethics ought to look like rather than how we should go about abortion, and so to avoid it clouding her paper, she never takes any stance on whether one should think abortion is or is not permissible.
+
+Thomson's argument appears to be rather theory-agnostic whereas Hursthouse is committed to a certain theory of ethics. A third approach is intertheoretical, an example of which can be found in Tomasz Żuradzki's [Meta-Reasoning in Making Moral Decisions under Normative Uncertainty](https://philpapers.org/archive/URAMIM.pdf). Here, Żuradzki discusses how we might deal with uncertainty over which theory is correct.
+
+> For example, we have to act in the face of uncertainty about the facts, the consequences of our decisions, the identity of people involved, people’s preferences, moral doctrines, specific moral duties, or the ontological status of some entities (belonging to some ontological class usually has serious implications for moral status). I want to analyze whether these kinds of uncertainties should have practical consequences for actions and whether there are reliable methods of reasoning that deal with the possibility that we understand some crucial moral issues wrong.
+
+Żuradzki at one point considers the seemingly obvious "My Favorite Theory" approach, but concludes that the approach is problematic.
+
+> Probably the most obvious proposition how to act under normative uncertainty is My Favorite Theory approach. It says that “a morally conscientious agent chooses an option that is permitted by the most credible moral theory”
+
+> ....
+
+> Although this approach looks very intuitive, there are interesting counter-examples.
+
+Żuradzki also addresses a few different approaches, some of which seem to make abortion impermissible so long as there is uncertainty, but perhaps this gives a good idea of three approaches in applied ethics.
+
+### Animal rights
+
+In the abortion section, the status of the fetus falls into the background. Thomson says even given a certain status, the case against abortion must do more, Hursthouse says the metaphysical question can be bypassed altogether, and Żuradzki considers how to take multiple theories about an action into account. But it seems this strategy of moving beyond the status of the patient in question cannot be done when it comes to the question of how we ought to treat non-human animals, for there's no obvious competing right that might give us pause when we decide not to treat a non-human animal cruelly. In dealing with animal rights, then, it appears we are forced to address the status of the non-human animal, and there seem to be many ways to address this.
+
+In Tom Regan's [The Case for Animal Rights](http://www.animal-rights-library.com/texts-m/regan03.pdf), Regan, who agrees with Kant that those who are worthy of moral consideration are ends-in-themselves, thinks what grounds that worthiness in humans is also what grounds that in non-human animals.
+
+> We want and prefer things, believe and feel things, recall and expect things. And all these dimensions of our life, including our pleasure and pain, our enjoyment and suffering, our satisfaction and frustration, our continued existence or our untimely death - all make a difference to the quality of our life as lived, as experienced, by us as individuals. As the same is true of those animals that concern us (the ones that are eaten and trapped, for example), they too must be viewed as the experiencing subjects of a life, with inherent value of their own.
+
+Christine Korsgaard, who also agrees with a Kantian view, argues against Regan's view and thinks non-human animals are not like humans. In [Fellow Creatures: Kantian Ethics and Our Duties to Animals](http://www.people.fas.harvard.edu/~korsgaar/CMK.FellowCreatures.pdf), Korsgaard makes the case that humans are rational in a sense that non-human animals are not, and that rationality is what grounds our moral obligations.
+
+> an animal who acts from instinct is conscious of the object of its fear or desire, and conscious of it as fearful or desirable, and so as to-be-avoided or to-be-sought. That is the ground of its action. But a rational animal is, in addition, conscious that she fears or desires the object, and that she is inclined to act in a certain way as a result.
+
+> ....
+
+> We cannot expect the other animals to regulate their conduct in accordance with an assessment of their principles, because they are not conscious of their principles. They therefore have no moral obligations.
+
+Korsgaard, however, still thinks this difference that makes the sense in which humans and non-human animals should be considered fundamentally distinct still leaves room for animals to be worthy of moral consideration.
+
+> Because we are animals, we have a natural good in this sense, and it is to this that our incentives are directed. Our natural good, like the other forms of natural good which I have just described, is not, in and of itself, normative. But it is on our natural good, in this sense, that we confer normative value when we value ourselves as ends-in-ourselves. It is therefore our animal nature, not just our autonomous nature, that we take to be an end-in-itself.
+
+> ....
+
+> In taking ourselves to be ends-in-ourselves we legislate that the natural good of a creature who matters to itself is the source of normative claims. Animal nature is an end-in-itself, because our own legislation makes it so. And that is why we have duties to the other animals.
+
+So Regan thinks that we can elevate the status of non-human animals up to something like the status of humans, but Korsgaard thinks there is a vast difference between the two categories. Before we consider which view is more credible, we should consider an additional, non-Kantian view which seems to bypass the issue of status once more.
+
+Rosalind Hursthouse (again!), in [Applying Virtue Ethics to Our Treatment of the Other Animals](http://www.hackettpublishing.com/pdfs/Hursthouse_Essay.pdf), argues that status need not be relevant for roughly the same reasons as the case of abortion.
+
+> In the abortion debate, the question that almost everyone began with was "What is the moral status of the fetus?"
+
+> ....
+
+> The consequentialist and deontological approaches to the rights and wrongs of the ways we treat the other animals (and also the environment) are structured in exactly the same way. Here too, the question that must be answered first is "What is the moral status of the other animals...?" And here too, virtue ethicists have no need to answer the question.
+
+So Hursthouse once again reframes the argument and grounds her argument in terms of virtue.
+
+> So I take the leaves on which [Singer describes factory farming] and think about them in terms of, for example, compassion, temperance, callousness, cruelty, greed, self-indulgence—and honesty.
+
+> Can I, in all honesty, deny the ongoing existence of this suffering? No, I can't. I know perfectly well that althrough there have been some improvements in the regulation of factory farming, what is going on is still terrible. Can I think it is anything but callous to shrug this off and say it doesn't matter? No, I can't. Can I deny that the practices are cruel? No, I can't.
+
+> ....
+
+> The practices that bring cheap meat to our tables are cruel, so we shouldn't be party to them.
+
+Żuradzki's argument in [Meta-Reasoning in Making Moral Decisions under Normative Uncertainty](https://philpapers.org/archive/URAMIM.pdf) becomes relevant once more as well. In it, he argues that if between the competing theories, one says something is wrong and one says nothing of the matter, it would be rational to act as if it were wrong.
+
+> Comparativism in its weak form can be applied only to very specific kinds of situations in which an agent’s credences are not divided between two different moral doctrines, but between only one moral doctrine and some doctrine (or doctrines) that does not give any moral reasons. Its conclusion says that if some theories in which you have credence give you subjective reason to choose action A over action B, and no theories in which you have credence give you subjective reason to choose action B over action A, then you should (because of the requirements of rationality) choose A over B.
+
+Once again, we see a variety of approaches that help give us a sense of the type of strategies that applied ethicists might use. Here, we have arguments that accept and reject a central premise of the debate, an argument that bypasses it, and an argument that considers both views. Some approaches are theory-specific, some are intertheoretical, and while it was not discussed here, Singer's argument from marginal cases is theory-neutral.
+
+Other issues will differ wildly, they will rely on different central premises, have arguments such that intertheoretical approaches are impossible, or have any number of other variations on the similarities and differences between the discussions on the two topics just discussed. However, this gives some idea, hopefully enough to build on if one chooses to look deeper into the literature, of how discussions in the area of applied ethics go about.
 
 ## Normative ethics
 
@@ -375,4 +297,176 @@ Julia Annas elaborates to greater detail in "Intelligent Virtue":
 
 > The way our characters develop is to some extent a matter of natural endowment; some of us have traits ‘by nature’—we will tend to act bravely or generously without having to learn to do so, or to think about it. This is ‘natural virtue’, which we have already encountered. Different people will have different natural virtues, and one person may be naturally endowed in one area of life but not others—naturally brave, for example, but not naturally generous. However, claims Aristotle, this can’t be the whole story about virtue. For one thing, children and animals can have some of these traits, but in them they are not virtues. Further, these natural traits are harmful if not guided by ‘the intellect’, which in this context is specified as practical wisdom or practical intelligence (phronesis). Just as a powerfully built person will stumble and fall if he cannot see, so a natural tendency to bravery can stumble unseeingly into ethical disaster because the person has not learned to look out for crucial factors in the situation. Our natural practical traits need to be formed and educated in an intelligent way for them to develop as virtues; a natural trait may just proceed blindly on where virtue would respond selectively and in a way open to novel information and contexts.
 
-2.4 Are these taxonomic imperfections bad? How do we get over vague definitions?
+#### Are these taxonomic imperfections bad? How do we get over vague definitions?
+
+# Reading
+
+##  Normative ethics
+
+* Julia Driver [Ethics: The Fundamentals](https://books.google.com/books?id=tpfZX3D20L0C). 2006.
+
+* Michael Sandel [Justice: What's the Right Thing To Do?](https://www.indiebound.org/book/9780374532505). 2010.
+
+* James Rachels and Stuart Rachels [The Elements of Moral Philosophy](https://www.barnesandnoble.com/w/the-elements-of-moral-philosophy-james-rachels/1121343445). 2014.
+
+> Includes a minimal definition of normative ethics as a whole.
+
+* Mark Timmons [Moral Theory: An Introduction](https://books.google.com/books?id=qWGp1iK9IlAC). 2012.
+
+* Bernard Williams [Morality: An Introduction to Ethics](http://www.cambridge.org/gb/academic/subjects/philosophy/philosophy-general-interest/morality-introduction-ethics-2?format=PB#z1FOHMiLj72P35vu.97). 2012.
+
+* Shelly Kagan [Normative Ethics](https://westviewpress.com/books/normative-ethics/). 1997.
+
+* Michael Ridge Stanford Encyclopedia of Philosophy entry on [Reasons for Action: Agent-Neutral vs. Agent-Relative](https://plato.stanford.edu/entries/reasons-agent/). 2017.
+
+> In this entry, Ridge lays out another way of categorizing theories in normative ethics in an accessible manner.
+
+## Normative ethics issues
+
+* Christopher Heathwood [Welfare](http://spot.colorado.edu/~heathwoo/welfare.pdf). 2010.
+
+* Roger Crisp Stanford Encyclopedia of Philosophy entry on [Well-being](https://plato.stanford.edu/entries/well-being/). 2017.
+
+* Michael Zimmerman Stanford Encyclopedia of Philosophy entry on [Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/). 2014.
+
+* Dana Nelkin Stanford Encyclopedia of Philosophy entry on [Moral Luck](https://plato.stanford.edu/entries/moral-luck/). 2013.
+
+* Stephen Stich, John Doris, and Erica Roedder [Altruism](http://www.rci.rutgers.edu/~stich/Publications/Papers/Altruism.pdf). 2008.
+
+* Robert Shaver Stanford Encyclopedia of Philosophy entry on [Egoism](https://plato.stanford.edu/entries/egoism/). 2014.
+
+* Joshua May Internet Encyclopedia of Philosophy entry on [Psychological Egoism](http://www.iep.utm.edu/psychego/). 2011.
+
+## Consequentialism
+
+* William Shaw [Contemporary Ethics: Taking Account of Utilitarianism](https://books.google.com/books?id=nb88LtgGnMAC). 1999.
+
+> About the best introduction that one can find to one of the consequentialist theories: utilitarianism.
+
+* J.J.C. Smart and Bernard Williams [Utilitarianism: For and Against](https://books.google.com/books?id=J0w3ER2fWv4C). 1973.
+
+> An introduction to the debate over utilitarianism.
+
+* Campbell Brown [Consequentialize This](http://www.research.ed.ac.uk/portal/files/12473535/BROWN_C_Consequentialize_This.pdf). 2011.
+
+> An influential work that lays out a decent strategy for keeping consequentialist theories of ethics distinct from other theories.
+
+* Walter Sinnott-Armstrong's Stanford Encyclopedia of Philosophy entry on [Consequentialism](https://plato.stanford.edu/entries/consequentialism/). 2015. A
+
+* William Haines Internet Encyclopedia of Philosophy entry on [Consequentialism](http://www.iep.utm.edu/conseque/). 2006.
+
+* Chapter 3 and 4 of Driver (see above). 2006.
+
+## Deontology
+
+* Christine Korsgaard [Creating the Kingdom of Ends](https://www.cambridge.org/core/books/creating-the-kingdom-of-ends/8C5CA1EFA210C42260A94D02494FD498). 1996.
+
+> A good introduction to and strong defense of Kantianism.
+
+* John Rawls [A Theory of Justice: Revised Edition](http://www.hup.harvard.edu/catalog.php?isbn=9780674000780&content=reviews). 1999.
+
+> Rawls's revolutionary work in both ethics and political philosophy in which he describes justice as fairness, a view he would continue to develop later on.
+
+* Robert Audi [The Good in the Right: A Theory of Intuition and Intrinsic Value](https://press.princeton.edu/titles/7750.html). 2005.
+
+>   A significant improvement and defense of one of the most influential deontological alternatives to Kantianism: Rossian deontology.
+
+* T.M. Scanlon [What We Owe to Each Other](http://www.hup.harvard.edu/catalog.php?isbn=9780674004238). 2000.
+
+> Scanlon, one of the most notable contributors to political and ethical philosophy among his contemporaries, provides an updated and comprehensive account of his formulation of contractualism.
+
+* Larry Alexander and Michael Moore Stanford Encyclopedia of Philosophy entry on [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/). 2016.
+
+* Chapter 5 and 6 of Driver (see above). 2006.
+
+## Virtue ethics
+
+* Rosalind Hursthouse [Virtue Theory and Abortion](https://www.jstor.org/stable/2265432). 1991.
+
+> Hursthouse's groundbreaking and accessible work on virtue theory.
+
+* Julia Annas [Intelligent Virtue](https://global.oup.com/academic/product/intelligent-virtue-9780199228775). 2011.
+
+* Jason Kawall [In Defense of the Primacy of the Virtues](https://philarchive.org/archive/KAWIDOv1). 2009.
+
+* Rosalind Hursthouse Stanford Encyclopedia of Philosophy entry on [Virtue Ethics](https://plato.stanford.edu/entries/ethics-virtue/). 2016.
+
+* Chapter 7 of Driver (see above). 2006.
+
+## Metaethics
+
+* Andrew Fisher [Metaethics: An Introduction](https://books.google.com/books/about/Metaethics.html?id=VbiNZwEACAAJ). 2011.
+
+* Alexander Miller [Contemporary Metaethics: An Introduction](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0745646581.html). 2013.
+
+* Mark van Roojen [Metaethics: A Contemporary Introduction](https://www.routledge.com/Metaethics-A-Contemporary-Introduction/van-Roojen/p/book/9780415894425). 2015.
+
+* Geoff Sayre-McCord's Stanford Encyclopedia of Philosophy entry on [Metaethics](https://plato.stanford.edu/entries/metaethics/). 2012.
+
+* [The Routledge Handbook of Metaethics](https://www.routledge.com/The-Routledge-Handbook-of-Metaethics/McPherson-Plunkett/p/book/9781138812208). 2017.
+
+> This is probably a more difficult read than the others, but it is incredibly comprehensive and helpful. There are many things in this handbook that I've been reading about for a long time that I didn't feel confident about until reading this. Certainly worth the cost.
+
+* [The Oxford Handbook of Ethical Theory](https://global.oup.com/academic/product/the-oxford-handbook-of-ethical-theory-9780195147797?cc=us&lang=en&). 2005.
+
+## Moral judgement
+
+* Michael Smith [The Moral Problem](https://link.springer.com/article/10.1023%2FA%3A1009976621075). 1998.
+
+> A must read for those who want to engage with issues in moral judgment, functioning both as a work popularly considered the most important in the topic as well as a great introduction.
+
+* Chapter 3 of Miller (see above). 2013.
+
+* Connie S. Rosati Stanford Encyclopedia of Philosophy entry on [Moral Motivation](https://plato.stanford.edu/entries/moral-motivation/). 2016.
+
+## Moral responsibility
+
+* P. F. Strawson [Freedom & Resentment](http://people.brandeis.edu/~teuber/P._F._Strawson_Freedom_&_Resentment.pdf). 1962.
+
+* John Martin Fischer and Mark Ravizza [Perspectives on Moral Responsibility](https://books.google.com/books/about/Perspectives_on_Moral_Responsibility.html?id=0ncN3TuDQ7cC). 1993.
+
+* Timothy O'Connor and Christopher Franklin Stanford Encyclopedia of Philosophy entry on [Free Will](https://plato.stanford.edu/entries/freewill/). 2018.
+
+* Michael McKenna and D. Justin Coates Stanford Encyclopedia of Philosophy entry on [Compatibilism](https://plato.stanford.edu/entries/compatibilism/). 2015.
+
+* Kadri Vihvelin Stanford Encyclopedia of Philosophy entry on [Arguments for Incompatibilism](https://plato.stanford.edu/entries/incompatibilism-arguments/). 2017.
+
+* Andrew Eshelman Stanford Encyclopedia of Philosophy entry on [Moral Responsibility](https://plato.stanford.edu/entries/moral-responsibility/). 2014.
+
+## Moral realism and irrealism
+
+* Stephen Finlay [Four Faces of Moral Realism](http://www-bcf.usc.edu/~finlay/Moral%20Realism.pdf). 2007.
+
+> A very popular Philosophy Compass paper that lays out very simply what moral realism is without arguing for or against any position.
+
+* Terrence Cuneo [The Normative Web](https://books.google.com/books?id=ROrnCwAAQBAJ). 2007.
+
+> An obligatory text laying out the popular companions in guilt argument for moral realisms.
+
+* Smith (see above). 1998.
+
+* Enoch (see above). 2011.
+
+* Chapter 8, 9, and 10 of Miller (see above). 2013.
+
+* Shafer-Landau (see above). 2005.
+
+* Katia Vavova [Debunking Evolutionary Debunking](https://philpapers.org/archive/VAVDED.pdf). 2013.
+
+> Here, Vavova provides a very influential, comprehensive, and easy to read overview of evolutionary debunking arguments, in which she also takes the liberty of pointing out their flaws.
+
+* Geoff Sayre-McCord Stanford Encyclopedia of Philosophy entry on [Moral Realism](https://plato.stanford.edu/entries/moral-realism/). 2015.
+
+* Chapter 3, 4, 5, and 6 of Miller (see above). 2013.
+
+* Mark van Roojen [Moral Cognitvism vs. Moral Non-cognitivism](https://plato.stanford.edu/entries/moral-cognitivism/). 2013.
+
+* Richard Joyce Moral [Anti-realism](https://plato.stanford.edu/entries/moral-anti-realism/). 2015.
+
+* Sharon Street [What is Constructivism in Ethics and Metaethics?](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2009.00280.x/full). 2010.
+
+* Christine Korsgaard [The Sources of Normativity](https://tannerlectures.utah.edu/_documents/a-to-z/k/korsgaard94.pdf). 1992.
+
+> Korsgaard's brilliant description, as well as her defense, of a form of Kantian constructivism.
+
+* Carla Bagnoli [Constructivism in Metaethics](https://plato.stanford.edu/entries/constructivism-metaethics/). 2017.
