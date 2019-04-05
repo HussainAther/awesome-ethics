@@ -35,7 +35,7 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
     
 # What is ethics?
 
-Ethics, then, is approximately about the questions to do with the nature, content, and application of morality, and so is the study of morality in general.
+Ethics is approximately about the questions to do with the nature, content, and application of morality, and so is the study of morality in general.
 
 Questions of moral language, psychology, phenomonenology (see above), epistemology, and ontology typically fall under metaethics.
 
