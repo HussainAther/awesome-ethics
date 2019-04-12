@@ -255,8 +255,6 @@ Kagan goes on to explain why of the various definitions, this one is best. That 
 
 #### Kant's First Formula
 
-![Kant](8bitkant.jpg "Immanuel Kant")
-
 In Julia Driver's [Ethics: The Fundamentals](https://books.google.com/books/about/Ethics.html?id=WzBtzTATyBMC), Driver introduces us to deontology through Kant's moral theory, saying this of the theory:
 
 > Immanuel Kant's theory is perhaps the most well-known exemplar of the deontological approach...whether or not a contemplated course of action is morally permissible will depend on whether or not it conforms to what he terms the moral law, the categorical imperative.
