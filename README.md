@@ -95,7 +95,7 @@ Two small notes that might be made are:
 
 ## Applied ethics
 
-Applied ethics is concerned with what is permissible in particular practices. In Peter Singer's Practical Ethics, Singer provides some examples of what sorts of things this field might address.
+Applied ethics is concerned with what is permissible in particular practices. In Peter Singer's *Practical Ethics,* Singer provides some examples of what sorts of things this field might address.
 
 > Practical ethics covers a wide area. We can find ethical ramifications in most of our choices, if we look hard enough. This book does not attempt to cover this whole area. The problems it deals with have been selected on two grounds: their relevance, and the extent to which philosophical reasoning can contribute to a discussion of them.
 
@@ -254,6 +254,8 @@ Deontology is another family of theories whose definition can wiggle through our
 Kagan goes on to explain why of the various definitions, this one is best. That explanation will not be detailed here, but let's keep this tenuously in mind as we dive into one of the deontological theories to give us a sense of what deontology entails. It would be absurd if these constraints were arbitrary, nothing more than consequentialism combined with "also, don't do these specific things because they seem icky and I don't like them," so we will take a look at one of the prominent deontological theories: Kantianism.
 
 #### Kant's First Formula
+
+![Kant](8bitkant.jpg "Immanuel Kant")
 
 In Julia Driver's [Ethics: The Fundamentals](https://books.google.com/books/about/Ethics.html?id=WzBtzTATyBMC), Driver introduces us to deontology through Kant's moral theory, saying this of the theory:
 
