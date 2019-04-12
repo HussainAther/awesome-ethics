@@ -35,7 +35,7 @@ Contributions and criticism are welcome. (See: https://github.com/HussainAther/a
     
 # What is ethics?
 
-![Why?](8bitthoughtbubble.png "Thoughts")
+![Why?](8bitthought.png "Thoughts")
 
 Ethics is approximately about the questions to do with the nature, content, and application of morality, and so is the study of morality in general.
 
