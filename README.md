@@ -49,6 +49,8 @@ Ethics has been divided traditionally into three areas concerning how we ought t
 
 ## Meta-ethics (Metaethics)
 
+![How Cartesian.](partingbrain.gif "Into the mind we go")
+
 Metaethics is occasionally referred to as a "second-order" discipline to make a distinction between itself and areas that are less about questions regarding what morality itself is. Questions about the most plausible metaphysical report of moral facts or the link between moral judgment, motivation, and knowledge are questions can be described as such, and so are metaethical questions. There are several rough divisions that have been created to introduce metaethics adequately. Either of these distinctions should be sufficient for getting a distant sense of what metaethics is.
 
 ### Metaethics as the systematic analysis of moral language, psychology, and ontology
